@@ -607,7 +607,7 @@ button:focus {
 
 
 #mu-video {
-	background-image: url("assets/images/video-bg.jpg");
+	background-image: url("assets/images/Video-bg.jpg");
 	background-attachment: fixed;
 	background-position: center center;
 	-webkit-background-size: cover;
