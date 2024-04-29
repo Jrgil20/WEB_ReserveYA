@@ -47,13 +47,11 @@ Author URI : http://www.markups.io/
 	background-color: #37c6f5;
 }
 
-.mu-header-overlay,
 .mu-menu-btn,
 .mu-title-dot,
 .mu-title-dot::before,
 .mu-title-dot::after,
-.mu-feature-btn,
-.mu-video-overlay {
+.mu-feature-btn{
 	background-color: #37c6f5;
 }
 .mu-feature-content-right .media:hover {
